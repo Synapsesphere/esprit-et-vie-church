@@ -1,6 +1,6 @@
 import Link from "next/link"
 import { Facebook, Youtube, MapPin, Phone, Mail, Clock } from "lucide-react"
-
+import { SiTiktok } from "react-icons/si";
 export function Footer() {
   return (
     <footer className="bg-primary text-primary-foreground">
@@ -31,6 +31,16 @@ export function Footer() {
               >
                 <Youtube className="w-5 h-5" />
               </a>
+              <a
+                href="https://youtube.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-10 h-10 bg-primary-foreground/10 rounded-full flex items-center justify-center hover:bg-accent transition-colors"
+                aria-label="Tiktok"
+              >
+                <SiTiktok className="w-5 h-5" />
+              </a>
+
             </div>
           </div>
 

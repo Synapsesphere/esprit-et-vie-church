@@ -4,6 +4,7 @@ import { ProgramsSlideshow } from "@/components/programs-slideshow"
 import { Card } from "@/components/ui/card"
 import { Calendar, Clock, MapPin } from "lucide-react"
 
+
 export default function ProgramsPage() {
   return (
     <main className="min-h-screen">
@@ -27,6 +28,7 @@ export default function ProgramsPage() {
         <div className="container mx-auto px-4">
           <ProgramsSlideshow />
         </div>
+
       </section>
 
       {/* Quick Schedule Overview */}

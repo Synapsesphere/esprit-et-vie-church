@@ -34,7 +34,6 @@ export function Navigation() {
             </div>
             <div className="hidden md:block">
               <div className="font-bold text-lg text-foreground">Ministère Esprit et Vie</div>
-              <div className="text-xs text-muted-foreground">Église Chrétienne Céleste</div>
             </div>
           </Link>
 
