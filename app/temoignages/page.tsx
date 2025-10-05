@@ -46,7 +46,7 @@ const testimonials = [
     id: 4,
     name: "David L.",
     location: "Abomey-Calavi",
-    date: "24 Novembre 2024",
+    date: "24 Novembre 2025",
     title: "Délivrance Spirituelle",
     testimony:
       "J'étais tourmenté par des cauchemars et des attaques spirituelles. Grâce aux prières de délivrance du jeudi, j'ai été libéré de toutes ces oppressions. Je dors maintenant en paix et ma vie a complètement changé.",
