@@ -19,7 +19,7 @@ export default function DonationPage() {
             <h1 className="text-4xl md:text-6xl font-bold text-foreground mb-6 text-balance">Faire un Don</h1>
             <div className="w-20 h-1 bg-primary mx-auto mb-6" />
             <p className="text-xl text-muted-foreground leading-relaxed">
-              Soutenez l'œuvre de Dieu et participez à l'avancement du Royaume
+              Soutenez l'œuvre de Dieu et participez à l'avancement du la mission
             </p>
           </div>
         </div>
