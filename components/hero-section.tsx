@@ -16,7 +16,7 @@ export function HeroSection() {
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
-        <img src="/beautiful-church-interior-with-stained-glass-windo.jpg" alt="Église Esprit et Vie" className="w-full h-full object-cover" />
+        <img src="/back.jpg" alt="Église Esprit et Vie" className="w-full h-full object-cover" />
         <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-background" />
       </div>
 
@@ -74,18 +74,18 @@ export function HeroSection() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 max-w-3xl mx-auto animate-in fade-in slide-in-from-bottom-7 duration-1000 delay-700">
             <div className="bg-white/10 backdrop-blur-md border border-white/20 rounded-lg p-6 hover:bg-white/15 transition-all hover:scale-105">
               <Calendar className="w-8 h-8 text-accent mb-3 mx-auto" />
-              <h3 className="font-semibold text-white mb-2">Culte du Dimanche</h3>
-              <p className="text-white/80 text-sm">Tous les dimanches à 10h</p>
+              <h3 className="font-semibold text-black mb-2">Culte du Dimanche</h3>
+              <p className="text-black/80 text-sm">Tous les dimanches à 10h</p>
             </div>
             <div className="bg-white/10 backdrop-blur-md border border-white/20 rounded-lg p-6 hover:bg-white/15 transition-all hover:scale-105">
               <Calendar className="w-8 h-8 text-accent mb-3 mx-auto" />
-              <h3 className="font-semibold text-white mb-2">Étude Biblique</h3>
-              <p className="text-white/80 text-sm">Tous les mardis à 19h</p>
+              <h3 className="font-semibold text-black mb-2">Étude Biblique</h3>
+              <p className="text-black/80 text-sm">Tous les mardis à 19h</p>
             </div>
             <div className="bg-white/10 backdrop-blur-md border border-white/20 rounded-lg p-6 hover:bg-white/15 transition-all hover:scale-105">
               <MapPin className="w-8 h-8 text-accent mb-3 mx-auto" />
-              <h3 className="font-semibold text-white mb-2">Notre Adresse</h3>
-              <p className="text-white/80 text-sm">Tokan, Abomey-Calavi</p>
+              <h3 className="font-semibold text-black mb-2">Notre Adresse</h3>
+              <p className="text-black/80 text-sm">Tokan, Abomey-Calavi</p>
             </div>
           </div>
         </div>

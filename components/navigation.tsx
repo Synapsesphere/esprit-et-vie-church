@@ -33,7 +33,7 @@ export function Navigation() {
               <span className="text-primary-foreground font-bold text-xl">EV</span>
             </div>
             <div className="hidden md:block">
-              <div className="font-bold text-lg text-foreground">Ministère Esprit et Vie</div>
+              <div className="font-bold text-lg text-foreground">Esprit et Vie</div>
             </div>
           </Link>
 

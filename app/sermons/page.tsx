@@ -9,7 +9,7 @@ const sermons = [
   {
     id: 1,
     title: "La Puissance de la Foi",
-    preacher: "Supérieur Évangélique Joachim KPOMAHO",
+    preacher: "Supérieur ÉvangélisteJoachim KPOMAHO",
     date: "3 Décembre 2024",
     duration: "45 min",
     type: "video",
@@ -23,7 +23,7 @@ const sermons = [
   {
     id: 2,
     title: "Marcher dans la Sainteté",
-    preacher: "Supérieur Évangélique Joachim KPOMAHO",
+    preacher: "Supérieur ÉvangélisteJoachim KPOMAHO",
     date: "26 Novembre 2024",
     duration: "52 min",
     type: "video",
@@ -37,7 +37,7 @@ const sermons = [
   {
     id: 3,
     title: "Le Jeûne et la Prière",
-    preacher: "Supérieur Évangélique Joachim KPOMAHO",
+    preacher: "Supérieur ÉvangélisteJoachim KPOMAHO",
     date: "19 Novembre 2024",
     duration: "38 min",
     type: "audio",
@@ -51,7 +51,7 @@ const sermons = [
   {
     id: 4,
     title: "L'Amour de Dieu",
-    preacher: "Supérieur Évangélique Joachim KPOMAHO",
+    preacher: "Supérieur ÉvangélisteJoachim KPOMAHO",
     date: "12 Novembre 2024",
     duration: "41 min",
     type: "video",
@@ -65,7 +65,7 @@ const sermons = [
   {
     id: 5,
     title: "La Victoire sur le Péché",
-    preacher: "Supérieur Évangélique Joachim KPOMAHO",
+    preacher: "Supérieur ÉvangélisteJoachim KPOMAHO",
     date: "5 Novembre 2024",
     duration: "47 min",
     type: "audio",
@@ -79,7 +79,7 @@ const sermons = [
   {
     id: 6,
     title: "Le Saint-Esprit, Notre Consolateur",
-    preacher: "Supérieur Évangélique Joachim KPOMAHO",
+    preacher: "Supérieur ÉvangélisteJoachim KPOMAHO",
     date: "29 Octobre 2024",
     duration: "55 min",
     type: "video",
@@ -96,7 +96,7 @@ const articles = [
   {
     id: 1,
     title: "Les Fondements de la Foi Chrétienne",
-    author: "Supérieur Évangélique Joachim KPOMAHO",
+    author: "Supérieur ÉvangélisteJoachim KPOMAHO",
     date: "1 Décembre 2024",
     excerpt:
       "Un article approfondi sur les piliers essentiels de la foi chrétienne et comment les appliquer dans notre vie quotidienne.",
@@ -113,7 +113,7 @@ const articles = [
   {
     id: 3,
     title: "Vivre dans la Présence de Dieu",
-    author: "Supérieur Évangélique Joachim KPOMAHO",
+    author: "Supérieur ÉvangélisteJoachim KPOMAHO",
     date: "18 Novembre 2024",
     excerpt: "Comment cultiver une relation intime avec Dieu et demeurer constamment dans Sa présence.",
     readTime: "10 min",

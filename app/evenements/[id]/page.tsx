@@ -34,7 +34,7 @@ const events = [
       { time: "15h30", activity: "Prière collective" },
       { time: "17h00", activity: "Message de clôture" },
     ],
-    organizer: "Supérieur Évangélique Joachim KPOMAHO",
+    organizer: "Supérieur ÉvangélisteJoachim KPOMAHO",
     contact: "contact@espritetvie.org",
   },
   {

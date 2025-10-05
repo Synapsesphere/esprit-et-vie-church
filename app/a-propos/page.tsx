@@ -38,8 +38,8 @@ export default function AboutPage() {
                 <div className="md:col-span-1">
                   <div className="relative w-48 h-48 mx-auto rounded-lg overflow-hidden shadow-xl">
                     <img
-                      src="/pastor-joachim-kpomaho-portrait.jpg"
-                      alt="Supérieur Évangélique Joachim KPOMAHO"
+                      src="/papa1.jpeg"
+                      alt="Supérieur ÉvangélisteJoachim KPOMAHO"
                       className="w-full h-full object-cover"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
@@ -51,7 +51,7 @@ export default function AboutPage() {
                     Le Missionnaire
                   </h3>
                   <p className="text-foreground leading-relaxed mb-4">
-                    Homme de foi, serviteur dévoué, le <strong>Supérieur Évangélique Joachim KPOMAHO</strong> est
+                    Homme de foi, serviteur dévoué, le <strong>Supérieur ÉvangélisteJoachim KPOMAHO</strong> est
                     l'exemple vivant d'un ministère exercé avec ferveur et humilité. Jour après jour, il se tient à la
                     brèche, guidant les âmes vers la lumière de l'Évangile, soutenant les faibles, fortifiant les cœurs,
                     et enseignant avec clarté la Parole de Dieu.

@@ -98,7 +98,7 @@ export default function ProgramsPage() {
                 <MapPin className="w-6 h-6 flex-shrink-0 mt-1" />
                 <div>
                   <h3 className="font-bold text-lg mb-2">Lieu de Culte</h3>
-                  <p className="text-primary-foreground/90">Paroisse Esprit et Vie, Cotonou, Bénin</p>
+                  <p className="text-primary-foreground/90">Paroisse Esprit et Vie, Calavi, Bénin</p>
                   <p className="text-sm text-primary-foreground/80 mt-2">
                     Tous nos programmes se déroulent à notre paroisse. Venez comme vous êtes, vous serez les bienvenus !
                   </p>

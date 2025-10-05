@@ -8,7 +8,7 @@ export function WelcomeMessage() {
         <div className="max-w-4xl mx-auto">
           {/* Pastor's Welcome */}
           <div className="text-center mb-12 animate-in fade-in slide-in-from-bottom-5 duration-700">
-            <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">Message du Pasteur</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">Message du Chargé Spirituel</h2>
             <div className="w-20 h-1 bg-primary mx-auto mb-8" />
           </div>
 
@@ -18,8 +18,8 @@ export function WelcomeMessage() {
               <div className="flex-shrink-0 mx-auto md:mx-0">
                 <div className="w-32 h-32 rounded-full overflow-hidden border-4 border-primary shadow-xl">
                   <img
-                    src="/african-pastor-in-white-robe-smiling-warmly.jpg"
-                    alt="Supérieur Évangélique Joachim KPOMAHO"
+                    src="/papa1.jpeg"
+                    alt="Supérieur Évangéliste Joachim KPOMAHO"
                     className="w-full h-full object-cover"
                   />
                 </div>
@@ -38,8 +38,8 @@ export function WelcomeMessage() {
                   croissance spirituelle et personnelle. Que Dieu vous bénisse.
                 </p>
                 <div className="border-t border-border pt-4">
-                  <p className="font-semibold text-foreground">Supérieur Évangélique Joachim KPOMAHO</p>
-                  <p className="text-sm text-muted-foreground">Fondateur et Pasteur Principal</p>
+                  <p className="font-semibold text-foreground">Supérieur Évangéliste Joachim KPOMAHO</p>
+                  <p className="text-sm text-muted-foreground">Fondateur et Chargé Spirituel</p>
                 </div>
               </div>
             </div>

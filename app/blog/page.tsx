@@ -11,7 +11,7 @@ const blogPosts = [
     title: "La Puissance de la Prière dans la Vie du Croyant",
     excerpt:
       "Découvrez comment la prière peut transformer votre vie quotidienne et renforcer votre relation avec Dieu. Un guide pratique pour développer une vie de prière efficace.",
-    author: "Supérieur Évangélique Joachim KPOMAHO",
+    author: "Supérieur ÉvangélisteJoachim KPOMAHO",
     date: "10 Décembre 2024",
     readTime: "8 min",
     image: "/blog-power-of-prayer-article.jpg",
@@ -35,7 +35,7 @@ const blogPosts = [
     title: "Le Jeûne Biblique : Guide Pratique",
     excerpt:
       "Le jeûne est une discipline spirituelle puissante. Apprenez les différents types de jeûne et comment les pratiquer selon les principes bibliques.",
-    author: "Supérieur Évangélique Joachim KPOMAHO",
+    author: "Supérieur ÉvangélisteJoachim KPOMAHO",
     date: "28 Novembre 2024",
     readTime: "12 min",
     image: "/blog-biblical-fasting-guide-article.jpg",
@@ -71,7 +71,7 @@ const blogPosts = [
     title: "Les Dons Spirituels et Leur Utilisation",
     excerpt:
       "Chaque croyant a reçu des dons spirituels. Apprenez à identifier vos dons et à les utiliser pour l'édification de l'église et la gloire de Dieu.",
-    author: "Supérieur Évangélique Joachim KPOMAHO",
+    author: "Supérieur ÉvangélisteJoachim KPOMAHO",
     date: "8 Novembre 2024",
     readTime: "9 min",
     image: "/blog-spiritual-gifts-usage-article.jpg",
