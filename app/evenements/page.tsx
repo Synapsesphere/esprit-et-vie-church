@@ -11,7 +11,7 @@ const upcomingEvents = [
     title: "Campagne d'Évangélisation 2025",
     date: "10 Janvier 2025",
     time: "10h00 - 18h00",
-    location: "Cotonou, Bénin",
+    location: "Calavi, Bénin",
     description:
       "Rejoignez-nous pour notre campagne annuelle d'évangélisation. Un moment puissant de partage de la Parole de Dieu et de témoignages transformateurs.",
     image: "/evangelization-campaign-outdoor-event.jpg",
@@ -22,8 +22,8 @@ const upcomingEvents = [
   {
     id: 2,
     title: "Pèlerinage à Imeko",
-    date: "15 Août 2025",
-    time: "06h00 - Retour le lendemain",
+    date: "23 Août 2025",
+    time: "06h00 - Retour le 25 décembre",
     location: "Imeko, Nigeria",
     description:
       "Pèlerinage spirituel annuel à Imeko en République Fédérale du Nigeria. Un temps de recueillement, de prière et de communion avec Dieu.",
