@@ -9,7 +9,7 @@ const testimonials = [
   {
     id: 1,
     name: "Marie K.",
-    location: "Cotonou",
+    location: "Calavi",
     date: "15 Décembre 2024",
     title: "Guérison Miraculeuse",
     testimony:
@@ -33,7 +33,7 @@ const testimonials = [
   {
     id: 3,
     name: "Esther A.",
-    location: "Cotonou",
+    location: "Calavi",
     date: "1 Décembre 2024",
     title: "Percée Financière",
     testimony:
@@ -57,7 +57,7 @@ const testimonials = [
   {
     id: 5,
     name: "Rachelle T.",
-    location: "Cotonou",
+    location: "Calavi",
     date: "17 Novembre 2024",
     title: "Miracle de Conception",
     testimony:

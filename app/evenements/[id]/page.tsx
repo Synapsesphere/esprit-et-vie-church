@@ -12,8 +12,8 @@ const events = [
     title: "Campagne d'Évangélisation 2025",
     date: "10 Janvier 2025",
     time: "10h00 - 18h00",
-    location: "Cotonou, Bénin",
-    fullLocation: "Place publique centrale, Cotonou, Bénin",
+    location: "Calavi, Bénin",
+    fullLocation: "Place publique centrale, Calavi, Bénin",
     description:
       "Rejoignez-nous pour notre campagne annuelle d'évangélisation. Un moment puissant de partage de la Parole de Dieu et de témoignages transformateurs.",
     fullDescription:
@@ -53,13 +53,13 @@ const events = [
     category: "Pèlerinage",
     attendees: "200+",
     program: [
-      { time: "06h00", activity: "Départ de Cotonou" },
+      { time: "06h00", activity: "Départ de Calavi" },
       { time: "12h00", activity: "Arrivée et installation" },
       { time: "14h00", activity: "Première session de prière" },
       { time: "18h00", activity: "Culte du soir" },
       { time: "Lendemain 06h00", activity: "Prière matinale" },
       { time: "10h00", activity: "Culte de clôture" },
-      { time: "14h00", activity: "Retour à Cotonou" },
+      { time: "14h00", activity: "Retour à Calavi" },
     ],
     organizer: "Ministère Esprit et Vie",
     contact: "contact@espritetvie.org",

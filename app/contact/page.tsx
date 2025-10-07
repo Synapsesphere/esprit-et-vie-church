@@ -181,7 +181,7 @@ export default function ContactPage() {
                   <div className="text-center">
                     <MapPin className="w-16 h-16 text-muted-foreground mx-auto mb-4" />
                     <p className="text-muted-foreground">Carte Google Maps</p>
-                    <p className="text-sm text-muted-foreground">Paroisse Esprit et Vie, Cotonou, Bénin</p>
+                    <p className="text-sm text-muted-foreground">Paroisse Esprit et Vie, Calavi, Bénin</p>
                   </div>
                 </div>
               </a>

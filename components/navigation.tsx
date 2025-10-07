@@ -28,14 +28,18 @@ export function Navigation() {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-3 group">
-            <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center transition-transform group-hover:scale-110">
-              <span className="text-primary-foreground font-bold text-xl">EV</span>
-            </div>
-            <div className="hidden md:block">
-              <div className="font-bold text-lg text-foreground">Esprit et Vie</div>
-            </div>
-          </Link>
+            <Link href="/" className="flex items-center gap-3 group focus:outline-none focus-visible:ring-2 focus-visible:ring-primary transition-shadow">
+            <img
+              src="/logo.png"
+              alt="Logo de l'Église Esprit et Vie"
+              width={48}
+              height={48}
+              className="w-12 h-12 object-cover rounded-full shadow-lg transition-transform duration-200 group-hover:scale-110 group-focus:scale-105"
+              loading="eager"
+              draggable={false}
+            />
+            <span className="sr-only">Accueil - Esprit et Vie</span>
+            </Link>
 
           {/* Desktop Navigation */}
           <div className="hidden lg:flex items-center gap-8">

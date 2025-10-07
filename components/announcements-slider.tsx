@@ -13,7 +13,7 @@ const announcements = [
     description: "Rejoignez-nous pour notre campagne annuelle d'évangélisation. Un moment de partage et de témoignage.",
     date: "10 Janvier 2025",
     time: "10h00",
-    location: "Cotonou, Bénin",
+    location: "Calavi, Bénin",
     image: "/outdoor-evangelization-event-with-crowd.jpg",
     type: "Événement Spécial",
   },
