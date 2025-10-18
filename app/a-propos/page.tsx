@@ -51,7 +51,7 @@ export default function AboutPage() {
                     Le Missionnaire
                   </h3>
                   <p className="text-foreground leading-relaxed mb-4">
-                    Homme de foi, serviteur dévoué, le <strong>Supérieur ÉvangélisteJoachim KPOMAHO</strong> est
+                    Homme de foi, serviteur dévoué, le <strong>Supérieur Évangéliste Joachim KPOMAHO</strong> est
                     l'exemple vivant d'un ministère exercé avec ferveur et humilité. Jour après jour, il se tient à la
                     brèche, guidant les âmes vers la lumière de l'Évangile, soutenant les faibles, fortifiant les cœurs,
                     et enseignant avec clarté la Parole de Dieu.
