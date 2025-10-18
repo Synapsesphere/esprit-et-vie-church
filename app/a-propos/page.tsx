@@ -39,7 +39,7 @@ export default function AboutPage() {
                   <div className="relative w-48 h-48 mx-auto rounded-lg overflow-hidden shadow-xl">
                     <img
                       src="/papa1.jpeg"
-                      alt="Supérieur ÉvangélisteJoachim KPOMAHO"
+                      alt="Supérieur Évangéliste Joachim KPOMAHO"
                       className="w-full h-full object-cover"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
